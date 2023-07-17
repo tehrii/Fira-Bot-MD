@@ -14,19 +14,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923474187615'] //ur owner number
-global.ownername = "Ⲏꫀɑⲅⲧ Ⲏɑᥴᴋꫀ𝗿 🍁" //ur owner name
+global.vcardowner = ['923165563235'] //ur owner number
+global.ownername = "Tehrii" //ur owner name
 global.ytname = "Ⲏꫀɑⲅⲧ Ⲏɑᥴᴋꫀ𝗿 🍁" //ur yt chanel name
 global.socialm = "Ⲏꫀɑⲅⲧ Ⲏɑᥴᴋꫀ𝗿 🍁" //ur github or insta name
 global.location = "🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰🇵🇰💗" //ur location
 
 //bot bomdy 
-global.owner = ['923474187615'] //ur number
-global.ownernomer = "923474187615" //ur number
-global.ownertag = '923474187615' //ur tag number
-global.premium = ['923474187615'] //ur premium number
+global.owner = ['923165563235'] //ur number
+global.ownernomer = "923165563235" //ur number
+global.ownertag = '923165563235' //ur tag number
+global.premium = ['923165563235'] //ur premium number
 global.botname = '𝗙𝗜𝗥𝗔-𝗠𝗗' //ur bot name
-global.ownername = "Ⲏꫀɑⲅⲧ Ⲏɑᥴᴋꫀ𝗿 🍁"
+global.ownername = "Tehrii"
 global.linkz = "https://wa.me/+923474187615" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/YyX0VwzImU4" //ur website to be displayed
 global.themeemoji = "❏↬" //ur theme emoji
